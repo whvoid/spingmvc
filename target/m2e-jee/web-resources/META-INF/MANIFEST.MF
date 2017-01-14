@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: WangHao
+Class-Path: spring-webmvc-4.3.5.RELEASE.jar spring-aop-4.3.5.RELEASE.j
+ ar spring-beans-4.3.5.RELEASE.jar spring-context-4.3.5.RELEASE.jar sp
+ ring-core-4.3.5.RELEASE.jar spring-expression-4.3.5.RELEASE.jar sprin
+ g-web-4.3.5.RELEASE.jar spring-test-4.3.5.RELEASE.jar mysql-connector
+ -java-5.1.22.jar mybatis-spring-1.1.1.jar mybatis-3.1.1.jar spring-tx
+ -3.1.1.RELEASE.jar spring-jdbc-3.1.1.RELEASE.jar c3p0-0.9.1.2.jar jac
+ kson-core-asl-1.9.13.jar jackson-core-lgpl-1.9.13.jar jackson-mapper-
+ asl-1.9.13.jar jackson-mapper-lgpl-1.9.13.jar jackson-core-2.7.0.jar 
+ jackson-databind-2.7.0.jar jackson-annotations-2.7.0.jar commons-io-2
+ .4.jar commons-fileupload-1.2.2.jar httpclient-4.2.2.jar httpcore-4.2
+ .2.jar commons-logging-1.1.1.jar commons-codec-1.6.jar log4j-1.2.9.ja
+ r jstl-1.2.jar standard-1.1.2.jar
+Build-Jdk: 1.8.0_66
+Created-By: Maven Integration for Eclipse
+
